@@ -1,14 +1,29 @@
-# farm-ng-project
+# Farm-NG-Project
 
-This project is for controlling and analyzing data from the Farm-NG robot.
+A modular robotics and computer vision platform developed by the MU Precision Agriculture and Automation Lab (MU-PAAL). This project aims to enable intelligent navigation, perception, and control for autonomous agricultural machines using open-source tools.
 
-## Features
-- Path planning
-- Image processing
-- Sensor data analysis
+## 🚜 Project Overview
 
-## Usage
-Clone the repository and run:
+This repository contains code and configuration files for:
+
+- Vehicle control (manual and autonomous)
+- Path planning using RTK GPS
+- Real-time image processing (e.g. path detection)
+- Sensor integration (IMU, camera, GPS)
+- Web interface for remote operation and monitoring
+- Docker-based deployment (local and robot-side)
+
+---
+
+## 🏗️ Directory Structure
 
 ```bash
-python main.py
+farm-ng-project/
+├── local_side/            # Control logic, UI, path planning
+├── robot_side/            # Onboard hardware interaction
+├── docker/                # Dockerfiles and compose configs
+├── models/                # DL models and scripts
+├── utils/                 # Helper scripts and tools
+├── data/                  # Optional data samples
+├── LICENSE
+└── README.md
