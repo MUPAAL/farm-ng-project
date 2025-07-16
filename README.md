@@ -21,9 +21,7 @@ This repository contains code and configuration files for:
 farm-ng-project/
 ├── local_side/            # Control logic, UI, path planning
 ├── robot_side/            # Onboard hardware interaction
-├── docker/                # Dockerfiles and compose configs
-├── models/                # DL models and scripts
-├── utils/                 # Helper scripts and tools
-├── data/                  # Optional data samples
+├── docs/                  # Retain only "what needs to be explained graphically"
+├── prototypes/            # Small results sink, modules not placed in formal pathways
 ├── LICENSE
 └── README.md
