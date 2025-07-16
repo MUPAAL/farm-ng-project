@@ -140,18 +140,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="alW0ItKAqQshCZF6b7rs-69" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="alW0ItKAqQshCZF6b7rs-45" target="alW0ItKAqQshCZF6b7rs-58" edge="1">
+        <mxCell id="alW0ItKAqQshCZF6b7rs-69" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="alW0ItKAqQshCZF6b7rs-45" target="T4fJnCsRXPa2P3c8TllR-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="164" y="730" />
             </Array>
+            <mxPoint x="254" y="805" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="alW0ItKAqQshCZF6b7rs-70" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="alW0ItKAqQshCZF6b7rs-45" target="alW0ItKAqQshCZF6b7rs-59" edge="1">
+        <mxCell id="alW0ItKAqQshCZF6b7rs-70" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="alW0ItKAqQshCZF6b7rs-45" target="T4fJnCsRXPa2P3c8TllR-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="164" y="730" />
             </Array>
+            <mxPoint x="254" y="885" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="alW0ItKAqQshCZF6b7rs-45" value="Feature 1:&amp;nbsp;&lt;div&gt;Remote Control&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
@@ -167,32 +169,14 @@
         <mxCell id="alW0ItKAqQshCZF6b7rs-46" value="&lt;div&gt;Epic: Robot System&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="19" y="550" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="H4ft9FC7T2seqUX7BpRU-48" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="alW0ItKAqQshCZF6b7rs-59" target="H4ft9FC7T2seqUX7BpRU-46" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="alW0ItKAqQshCZF6b7rs-59" value="Story3:&lt;div&gt;...&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="254" y="870" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="H4ft9FC7T2seqUX7BpRU-47" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="alW0ItKAqQshCZF6b7rs-58" target="H4ft9FC7T2seqUX7BpRU-38" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="alW0ItKAqQshCZF6b7rs-58" value="Story2:&lt;div&gt;...&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="254" y="790" width="90" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="alW0ItKAqQshCZF6b7rs-50" value="Story 1:&amp;nbsp;&lt;div&gt;&lt;div&gt;As a &lt;u&gt;team member&lt;/u&gt;,&lt;/div&gt;&lt;div&gt;I want to &lt;u&gt;control the robot’s direction using keyboard keys,&lt;/u&gt;&lt;/div&gt;&lt;div&gt;so that &lt;u&gt;I can test motor functions without a physical remote.&lt;/u&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="254" y="660" width="325" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="H4ft9FC7T2seqUX7BpRU-19" value="[ ] task1:&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;Setup WASD key bindings to send movement commands&lt;/span&gt;&lt;div&gt;[ ] task2:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Connect to robot through WebSocket&lt;/span&gt;&lt;/div&gt;&lt;div&gt;[ ] task3:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Test command transmission and motor feedback&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="459" y="750" width="370" height="70" as="geometry" />
+        <mxCell id="T4fJnCsRXPa2P3c8TllR-1" value="Story 1:&amp;nbsp;&lt;div&gt;&lt;div&gt;As a &lt;u&gt;team member&lt;/u&gt;,&lt;/div&gt;&lt;div&gt;I want to &lt;u&gt;control the robot’s direction using keyboard keys,&lt;/u&gt;&lt;/div&gt;&lt;div&gt;so that &lt;u&gt;I can test motor functions without a physical remote.&lt;/u&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="254" y="770" width="325" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="H4ft9FC7T2seqUX7BpRU-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="alW0ItKAqQshCZF6b7rs-50" target="H4ft9FC7T2seqUX7BpRU-19" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="H4ft9FC7T2seqUX7BpRU-38" value="&lt;span style=&quot;text-align: left;&quot;&gt;[ ] task1: ...&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;...&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="459" y="830" width="92.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="H4ft9FC7T2seqUX7BpRU-46" value="&lt;span style=&quot;text-align: left;&quot;&gt;[ ] task1: ...&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;...&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="459" y="900" width="92.5" height="40" as="geometry" />
+        <mxCell id="T4fJnCsRXPa2P3c8TllR-2" value="Story 1:&amp;nbsp;&lt;div&gt;&lt;div&gt;As a &lt;u&gt;team member&lt;/u&gt;,&lt;/div&gt;&lt;div&gt;I want to &lt;u&gt;control the robot’s direction using keyboard keys,&lt;/u&gt;&lt;/div&gt;&lt;div&gt;so that &lt;u&gt;I can test motor functions without a physical remote.&lt;/u&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="254" y="880" width="325" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
