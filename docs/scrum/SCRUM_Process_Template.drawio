@@ -114,7 +114,7 @@
           <mxGeometry x="90" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="H4ft9FC7T2seqUX7BpRU-49" value="" style="group" parent="1" connectable="0" vertex="1">
-          <mxGeometry x="10" y="490" width="829" height="540" as="geometry" />
+          <mxGeometry x="10" y="481" width="829" height="540" as="geometry" />
         </mxCell>
         <mxCell id="H4ft9FC7T2seqUX7BpRU-21" value="&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td data-col-size=&quot;sm&quot; data-end=&quot;545&quot; data-start=&quot;520&quot;&gt;&lt;strong data-end=&quot;544&quot; data-start=&quot;522&quot;&gt;Product Owner (PO)&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;Dr. Zhou" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;glass=0;swimlaneFillColor=light-dark(#f8cecc, #ededed);container=0;startSize=40;" parent="H4ft9FC7T2seqUX7BpRU-49" vertex="1">
           <mxGeometry width="369" height="540" as="geometry">
