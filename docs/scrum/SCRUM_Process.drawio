@@ -170,13 +170,13 @@
           <mxGeometry x="30" y="450" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="alW0ItKAqQshCZF6b7rs-50" value="Story 1:&amp;nbsp;&lt;div&gt;&lt;div&gt;As a &lt;u&gt;team member&lt;/u&gt;,&lt;/div&gt;&lt;div&gt;I want to &lt;u&gt;control the robot’s direction using keyboard keys,&lt;/u&gt;&lt;/div&gt;&lt;div&gt;so that &lt;u&gt;I can test motor functions without a physical remote.&lt;/u&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="265" y="560" width="325" height="80" as="geometry" />
+          <mxGeometry x="265" y="560" width="355" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="T4fJnCsRXPa2P3c8TllR-1" value="Story 1:&amp;nbsp;&lt;div&gt;&lt;div&gt;As a &lt;u&gt;team member&lt;/u&gt;,&lt;/div&gt;&lt;div&gt;I want to &lt;u&gt;control the robot’s direction using keyboard keys,&lt;/u&gt;&lt;/div&gt;&lt;div&gt;so that &lt;u&gt;I can test motor functions without a physical remote.&lt;/u&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="265" y="670" width="325" height="80" as="geometry" />
+        <mxCell id="T4fJnCsRXPa2P3c8TllR-1" value="Story 2:&amp;nbsp;&lt;div&gt;As a &lt;u&gt;tester&lt;/u&gt;,&amp;nbsp;&lt;/div&gt;&lt;div&gt;I want to &lt;u&gt;control the robot using a virtual joystick in the browser,&lt;/u&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;so that&lt;u&gt; I can adjust both speed and direction more smoothly.&lt;/u&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="265" y="670" width="355" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="T4fJnCsRXPa2P3c8TllR-2" value="Story 1:&amp;nbsp;&lt;div&gt;&lt;div&gt;As a &lt;u&gt;team member&lt;/u&gt;,&lt;/div&gt;&lt;div&gt;I want to &lt;u&gt;control the robot’s direction using keyboard keys,&lt;/u&gt;&lt;/div&gt;&lt;div&gt;so that &lt;u&gt;I can test motor functions without a physical remote.&lt;/u&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="265" y="780" width="325" height="80" as="geometry" />
+        <mxCell id="T4fJnCsRXPa2P3c8TllR-2" value="Story 3:&amp;nbsp;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;As a &lt;u&gt;tester&lt;/u&gt;,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;I want &lt;u&gt;an emergency stop button and a control lock,&amp;nbsp;&lt;/u&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;so that &lt;u&gt;I can prevent unintended robot behavior and ensure safety during testing.&lt;/u&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="265" y="780" width="355" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
